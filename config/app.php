@@ -162,6 +162,7 @@ return [
         Illuminate\Validation\ValidationServiceProvider::class,
         Illuminate\View\ViewServiceProvider::class,
         Yoeunes\Toastr\ToastrServiceProvider::class,
+        Just\Amp\Laravel\AmpServiceProvider::class,
         /*
          * Package Service Providers...
          */
@@ -189,7 +190,7 @@ return [
     */
 
     'aliases' => [
-
+        'AmpRouter' => Just\Amp\Laravel\AmpRouteFacade::class,
         'App' => Illuminate\Support\Facades\App::class,
         'Arr' => Illuminate\Support\Arr::class,
         'Artisan' => Illuminate\Support\Facades\Artisan::class,

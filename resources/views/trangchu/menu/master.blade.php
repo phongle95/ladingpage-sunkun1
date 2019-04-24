@@ -88,11 +88,10 @@
         <div class="container custom-container pd-0">
             <div class="col-6 col-sm-6 col-md-4 col-lg-6 col-xl-4 pd-0 d-flex justify-content-md-start align-items-xl-center">
                 <div class="social-media display-inline-block">
-                    <a href="#"><i class="white fa fa-skype" aria-hidden="true"></i></a>
-                    <a href="https://www.youtube.com/channel/UC8eMyfhie1Omof-wQmOiJtg" target="_blank"><i class="white fa fa-youtube-play" aria-hidden="true"></i></a>
-                    <a href="https://www.facebook.com/wditsolution/" target="_blank"><i class="white fa fa-facebook" aria-hidden="true"></i></a>
-                    <a href="https://twitter.com/wditsolutions" target="_blank"><i class="white fa fa-twitter" aria-hidden="true"></i></a>
-                    <a href="#"><i class="white fa fa-instagram" aria-hidden="true"></i></a>
+                        <a href="https://www.facebook.com/toidensunkun.vn/" target="_blank"><i class="white fa fa-facebook" aria-hidden="true"></i></a>
+                    <a href="https://www.youtube.com/channel/UCOgd36CInYnNFKzMkKOHQGw" target="_blank"><i class="white fa fa-youtube-play" aria-hidden="true"></i></a>
+
+                    <a href="https://www.facebook.com/toidensunkun.vn/"><i class="white fa fa-instagram" aria-hidden="true"></i></a>
                 </div>
             </div>
             <div class="col-6 col-sm-6 col-md-8 col-lg-6 col-xl-8 pd-0 d-flex justify-content-end">
@@ -245,7 +244,7 @@
     <section class="main-slider" id="trang-chu">
         <div id="main-slider" class="owl-carousel owl-theme">
             <div class="item">
-                <img src="sunkun/img/slide-1.png" class="img-fluid" alt="Vigo Slider Image">
+                <img src="sunkun/img/slide_1.jpg" class="img-fluid" alt="Vigo Slider Image">
                 <div class="slider-text-box">
                     <div class="container custom-container">
                         <div class="row">
@@ -263,7 +262,7 @@
                 </div>
             </div>
             <div class="item">
-                <img src="sunkun/img/slide-2.png" class="img-fluid" alt="Vigo Slider Image">
+                <img src="sunkun/img/slide_2.jpg" class="img-fluid" alt="Vigo Slider Image">
                 <div class="slider-text-box">
                     <div class="container custom-container">
                         <div class="row">
@@ -518,7 +517,7 @@
                     </div>
                 </div>
                 <div class="col-12 col-sm-10 col-md-11 col-lg-12 col-xl-4 text-center order-lg-1 order-xl-2 content-product-features-img">
-                    <img src="sunkun/img/dau-khop.png" class="img-fluid" alt="product features big img">
+                    <img src="sunkun/img/dau_khop.jpg" class="img-fluid" alt="đau khớp">
                 </div>
                 <div class="col-12 col-sm-10 col-md-11 col-lg-6 col-xl-4 order-lg-3 order-xl-3">
                     <div class="product-features-right">
@@ -585,7 +584,7 @@
                     </div>
                 </div>
                 <div class="col-12 col-sm-10 col-md-10 col-lg-5 col-xl-5 d-flex align-items-center">
-                    <img src="sunkun/img/services-img.jpg" class="img-fluid services-big-img" alt="services-img">
+                    <img src="sunkun/img/services_img.jpg" class="img-fluid services-big-img" alt="services-img">
                 </div>
                 <div class="col-12 col-sm-10 col-md-11 col-lg-7 col-xl-7 ">
                     <div class="services-container-title">
@@ -699,7 +698,7 @@
                             </div>
                             <div class="col-md-8">
                                 <div class="testimonial-box text-center">
-                                    <p class="testimonial-content mr-0">Đầu gối đau nhức đi lại khó khăn đã đi lại được và hết đau nhức chỉ với 2 liệu trình</p>
+                                    <p style="font-size:20px;" class="testimonial-content mr-0">Đầu gối đau nhức đi lại khó khăn đã đi lại được và hết đau nhức chỉ với 2 liệu trình</p>
                                     <br>
                                     <div class="author-meta display-inline-block">
                                         <img class="align-self-center width-auto" src="sunkun/img/khph.jpg" style="width:255px;height:255px;" alt="author img">
@@ -720,7 +719,7 @@
                             </div>
                             <div class="col-md-8">
                                 <div class="testimonial-box text-center">
-                                    <p class="testimonial-content mr-0">Đau vai gáy dùng 1 liệu trình đã hết đau.</p>
+                                    <p style="font-size:20px;" class="testimonial-content mr-0">Đau vai gáy dùng 1 liệu trình đã hết đau.</p>
                                     <br>
                                     <div class="author-meta display-inline-block">
                                         <img class="align-self-center width-auto" src="sunkun/img/kh2.jpg" style="width:255px;height:255px;" alt="author img">
@@ -741,7 +740,7 @@
                             </div>
                             <div class="col-md-8">
                                 <div class="testimonial-box text-center">
-                                    <p class="testimonial-content mr-0">Đau nhức khớp tay , dùng 1 liệu trình thấy hiệu quả dùng thêm liệu trình nữa đã bớt hẳn</p>
+                                    <p style="font-size:20px;" class="testimonial-content mr-0">Đau nhức khớp tay , dùng 1 liệu trình thấy hiệu quả dùng thêm liệu trình nữa đã bớt hẳn</p>
                                     <br>
                                     <div class="author-meta display-inline-block">
                                         <img class="align-self-center width-auto" src="sunkun/img/kh6.jpg" style="width:255px;height:255px;" alt="author img">
@@ -762,7 +761,7 @@
                             </div>
                             <div class="col-md-8">
                                 <div class="testimonial-box text-center">
-                                    <p class="testimonial-content mr-0">Đau dọc sóng lưng khó ngủ , dùng 3 liệu trình đã bớt , ngủ ngon </p>
+                                    <p style="font-size:20px;" class="testimonial-content mr-0">Đau dọc sóng lưng khó ngủ , dùng 3 liệu trình đã bớt , ngủ ngon </p>
                                     <br>
                                     <div class="author-meta display-inline-block">
                                         <img class="align-self-center width-auto" src="sunkun/img/kh3.jpg" style="width:255px;height:255px;" alt="author img">
@@ -783,7 +782,7 @@
                             </div>
                             <div class="col-md-8">
                                 <div class="testimonial-box text-center">
-                                    <p class="testimonial-content mr-0">Tê tay , dùng 1 liệu trình đã bớt hẳn </p>
+                                    <p style="font-size:20px;" class="testimonial-content mr-0">Tê tay , dùng 1 liệu trình đã bớt hẳn </p>
                                     <br>
                                     <div class="author-meta display-inline-block">
                                         <img class="align-self-center width-auto" src="sunkun/img/kh4.jpg" style="width:255px;height:255px;" alt="author img">
@@ -843,28 +842,28 @@
                         <div id="slider" class="flexslider">
                             <ul class="slides">
                                 <li>
-                                    <img src="sunkun/img/product-img.jpg" alt="product img">
+                                    <img src="sunkun/img/services_img.jpg" alt="product img">
                                 </li>
                                 <li>
-                                    <img src="sunkun/img/atk1.png" alt="product img">
+                                    <img src="sunkun/img/atk1.jpg" alt="product img">
                                 </li>
                                 <li>
-                                    <img src="sunkun/img/atk2.png" alt="product img">
+                                    <img src="sunkun/img/atk2.jpg" alt="product img">
                                 </li>
                                 <li>
-                                    <img src="sunkun/img/atk3.png" alt="product img">
+                                    <img src="sunkun/img/atk3.jpg" alt="product img">
                                 </li>
                                 <li>
-                                    <img src="sunkun/img/atk1.png" alt="product img">
+                                    <img src="sunkun/img/atk1.jpg" alt="product img">
                                 </li>
                                 <li>
-                                    <img src="sunkun/img/atk2.png" alt="product img">
+                                    <img src="sunkun/img/atk2.jpg" alt="product img">
                                 </li>
                                 <li>
-                                    <img src="sunkun/img/atk3.png" alt="product img">
+                                    <img src="sunkun/img/atk3.jpg" alt="product img">
                                 </li>
                                 <li>
-                                    <img src="sunkun/img/product-img.jpg" alt="product img">
+                                    <img src="sunkun/img/services_img.jpg" alt="product img">
                                 </li>
                                 <!-- items mirrored twice, total of 12 -->
                             </ul>
@@ -910,25 +909,25 @@
                             <div id="carousel" class="flexslider">
                                 <ul class="slides vigo-small-img">
                                     <li>
-                                        <img src="sunkun/img/product-img.jpg" class="cursor-pointer" alt="product img">
+                                        <img src="sunkun/img/services_img.jpg" class="cursor-pointer" alt="product img">
                                     </li>
                                     <li>
-                                        <img src="sunkun/img/atk1.png" class="cursor-pointer" alt="product img">
+                                        <img src="sunkun/img/atk1.jpg" class="cursor-pointer" alt="product img">
                                     </li>
                                     <li>
-                                        <img src="sunkun/img/atk2.png" class="cursor-pointer" alt="product img">
+                                        <img src="sunkun/img/atk2.jpg" class="cursor-pointer" alt="product img">
                                     </li>
                                     <li>
-                                        <img src="sunkun/img/atk3.png" class="cursor-pointer" alt="product img">
+                                        <img src="sunkun/img/atk3.jpg" class="cursor-pointer" alt="product img">
                                     </li>
                                     <li>
-                                        <img src="sunkun/img/atk1.png" class="cursor-pointer" alt="product img">
+                                        <img src="sunkun/img/atk1.jpg" class="cursor-pointer" alt="product img">
                                     </li>
                                     <li>
-                                        <img src="sunkun/img/atk2.png" class="cursor-pointer" alt="product img">
+                                        <img src="sunkun/img/atk2.jpg" class="cursor-pointer" alt="product img">
                                     </li>
                                     <li>
-                                        <img src="sunkun/img/product-img.jpg" class="cursor-pointer" alt="product img">
+                                        <img src="sunkun/img/services_img.jpg" class="cursor-pointer" alt="product img">
                                     </li>
                                     <!-- <li>
                                         <img src="sunkun/img/product-img-3.jpg" class="cursor-pointer" alt="product img">
