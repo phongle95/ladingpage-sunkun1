@@ -9,7 +9,7 @@
    */
   $(document).ready(function() {
 
-    $(window).on('load', function(){ 
+    $(window).on('load', function(){
       $('div.vigo-loder').remove();
       $('body').removeClass('vigo-loder');
     });
@@ -17,7 +17,11 @@
   	/*
   		Youtube Video Player
   	*/
-  	$('#video').simplePlayer();
+      $('#video').simplePlayer();
+      $('#video1').simplePlayer();
+      $('#video2').simplePlayer();
+
+
 
     // $('.filtr-container').filterizr();
 
@@ -114,24 +118,24 @@
           }
       },
     });
-    
-    $('.accordion-menu').on('click', function(){ 
-      $('.accordion-menu').not(this).removeClass('active'); 
-      $(this).toggleClass('active'); 
+
+    $('.accordion-menu').on('click', function(){
+      $('.accordion-menu').not(this).removeClass('active');
+      $(this).toggleClass('active');
     });
 
     $('#sticker').sticky({
       topSpacing: 0,
       zIndex: 20
     });
-    
+
 
 
     $('.back_to_top').on('click', function(event) {
         event.preventDefault();
         $('html, body').animate({scrollTop: 0}, 4000);
     });
-    
+
     $('#nav').onePageNav();
 
     $('.popup-youtube').magnificPopup({

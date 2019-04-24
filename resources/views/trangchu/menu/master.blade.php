@@ -42,7 +42,7 @@
         {
             "@context": "http://schema.org",
             "@type": "WebSite",
-            "name": "Lysonvn",
+            "name": "anthapkhop",
             "url": "https://www.sunkun.vn/",
             "sameAs": ["https://www.facebook.com/toidensunkun.vn/"]
         }
@@ -362,15 +362,15 @@
                     </div>
                 </div>
                 <div class="col-12 col-sm-10 col-md-10 col-lg-6 col-xl-6 mx-auto my-auto">
-                    <div class="embed-responsive embed-responsive-16by9">
-                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/tevrUdnf1AA" allowfullscreen></iframe>
+                    <div data-video="tevrUdnf1AA" id="video" class="pos-r">
+                        <img class="figure-img img-fluid" src="sunkun/img/imgvideo1.jpg" alt="sunkun.">
                     </div>
                     <br>
                 </div>
 
                 <div class="col-12 col-sm-10 col-md-11 col-lg-6 col-xl-6">
-                    <div class="embed-responsive embed-responsive-16by9">
-                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/uO5RfepTQw8" allowfullscreen></iframe>
+                    <div data-video="uO5RfepTQw8" id="video1" class="pos-r">
+                            <img class="figure-img img-fluid" src="sunkun/img/imgvideo2.jpg" alt="sunkun.">
                     </div>
                 </div>
             </div>
@@ -639,7 +639,7 @@
                     <!-- =========================
                         Youtube Video Section
                     ============================== -->
-                    <div data-video="yjVxaCS0TIY" id="video" class="pos-r">
+                    <div data-video="yjVxaCS0TIY" id="video2" class="pos-r">
                         <img class="figure-img img-fluid" src="sunkun/img/imgvideo.jpg" alt="sunkun.">
                     </div>
                 </div>
