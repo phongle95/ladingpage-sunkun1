@@ -18,39 +18,18 @@
     <!--meta google-->
     <meta itemprop="name" content="Tỏi đen 1 nhánh sunkun lên men 90 ngày và thảo dược thành phần và hàm lượng có trong thảo dược : Cây hy thiêm thảo ,Độc hoạt ,Đỗ trọng ,Ngưu tất ,Xuyên khung ,Đương quy và các dược liệu quý khác" />
     <meta itemprop="description" content="Liệu trình 10 ngày đã được thử nghiệm và sử dụng bởi rất nhiều người có bệnh đau nhức xương khớp. 97% người sử dụng điều hài lòng, và kết thúc đau khớp trong 10 ngày đầu tiên. 3% còn lại thì khỏi hoàn toàn trong vòng 2 tuần" />
-    <meta itemprop="image" content="sunkun/img/atk1.png"/>
+    <meta itemprop="image" content="sunkun/img/atk1.png" />
     <meta name="og:url" content="{{ route('trangchu.menu.master') }}" />
-
-
     <!-- Structure data -->
     <script type="application/ld+json">
-        {
-            "@context": "http://schema.org",
-            "@type": "Organization",
-            "address": {
-                "@type": "PostalAddress",
-                "addressLocality": "Việt Nam",
-                "addressRegion": "TP Đà Nẵng",
-                "streetAddress": "121 Cù Chính Lan, Thành Phố Đà Nẵng"
-            },
-            "description": "Liệu trình 10 ngày đã được thử nghiệm và sử dụng bởi rất nhiều người có bệnh đau nhức xương khớp. 97% người sử dụng điều hài lòng, và kết thúc đau khớp trong 10 ngày đầu tiên. 3% còn lại thì khỏi hoàn toàn trong vòng 2 tuần",
-            "name": "An Thap Khop",
-            "telephone": "0989274727"
-        }
-        </script>
-        <script type="application/ld+json">
-        {
-            "@context": "http://schema.org",
-            "@type": "WebSite",
-            "name": "anthapkhop",
-            "url": "https://www.sunkun.vn/",
-            "sameAs": ["https://www.facebook.com/toidensunkun.vn/"]
-        }
-        </script>
-
+        { "@context": "http://schema.org", "@type": "Organization", "address": { "@type": "PostalAddress", "addressLocality": "Việt Nam", "addressRegion": "TP Đà Nẵng", "streetAddress": "121 Cù Chính Lan, Thành Phố Đà Nẵng" }, "description": "Liệu trình 10 ngày đã được thử nghiệm và sử dụng bởi rất nhiều người có bệnh đau nhức xương khớp. 97% người sử dụng điều hài lòng, và kết thúc đau khớp trong 10 ngày đầu tiên. 3% còn lại thì khỏi hoàn toàn trong vòng 2 tuần", "name": "An Thap Khop", "telephone": "0989274727" }
+    </script>
+    <script type="application/ld+json">
+        { "@context": "http://schema.org", "@type": "WebSite", "name": "anthapkhop", "url": "https://www.sunkun.vn/", "sameAs": ["https://www.facebook.com/toidensunkun.vn/"] }
+    </script>
     <!-- =========================
-        Loding All Stylesheet
-    ============================== -->
+         Loding All Stylesheet
+         ============================== -->
     <link rel="stylesheet" href="sunkun/css/hover-min.css">
     <link rel="stylesheet" href="sunkun/css/magnific-popup.css">
     <link rel="stylesheet" href="sunkun/css/font-awesome.min.css">
@@ -61,36 +40,32 @@
     <link rel="stylesheet" href="sunkun/css/phone.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"> {{-- @toastr_css --}}
     <!-- =========================
-        Loding Main Theme Style
-    ============================== -->
+         Loding Main Theme Style
+         ============================== -->
     <link rel="stylesheet" href="sunkun/css/style.css">
     <link rel="stylesheet" href="sunkun/css/color.css">
-
     <!-- =========================
-    	Header Loding JS Script
-    ============================== -->
+         Header Loding JS Script
+         ============================== -->
     <script src="sunkun/js/modernizr.js"></script>
 </head>
 
 <body id="vigo_body">
     <!--[if lt IE 8]>
       <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-    <![endif]-->
-
+      <![endif]-->
     <div class="vigo-loder">
         <div class="sk-rotating-plane"></div>
     </div>
-
     <!-- ==============================
-        Header top
-    =================================== -->
+         Header top
+         =================================== -->
     <header class="header-top navbar navbar-light bg-light bg-green">
         <div class="container custom-container pd-0">
             <div class="col-6 col-sm-6 col-md-4 col-lg-6 col-xl-4 pd-0 d-flex justify-content-md-start align-items-xl-center">
                 <div class="social-media display-inline-block">
-                        <a href="https://www.facebook.com/toidensunkun.vn/" target="_blank"><i class="white fa fa-facebook" aria-hidden="true"></i></a>
+                    <a href="https://www.facebook.com/toidensunkun.vn/" target="_blank"><i class="white fa fa-facebook" aria-hidden="true"></i></a>
                     <a href="https://www.youtube.com/channel/UCOgd36CInYnNFKzMkKOHQGw" target="_blank"><i class="white fa fa-youtube-play" aria-hidden="true"></i></a>
-
                     <a href="https://www.facebook.com/toidensunkun.vn/"><i class="white fa fa-instagram" aria-hidden="true"></i></a>
                 </div>
             </div>
@@ -100,9 +75,9 @@
                         <button type="button" class="btn btn-primary media bg-white black cursor-pointer pd-0 border-transparent border-0 focus-none header-meta-main-btn" data-toggle="modal" data-target="#header-login">
                             <i class="fa fa-user mr-auto" aria-hidden="true"></i>
                             <span class="d-flex align-self-xl-center">
-                                <span class="media-body d-none d-xl-block white">
-                                    Đăng ký làm Đại Lý
-                                </span>
+                     <span class="media-body d-none d-xl-block white">
+                     Đăng ký làm Đại Lý
+                     </span>
                             </span>
                         </button>
                         <!-- Modal -->
@@ -112,7 +87,6 @@
                                     <p style="text-align:center;font-weight:600">Đăng ký làm đại lý bán lẻ</p>
                                     <p>Các bạn muốn đăng ký làm đại lý bán lẻ, hoặc thành viên hãy để lại thông tin liên hệ dưới đây hoặc gọi trực tiếp vào hotline của mình nhé <strong>0989 274 727</strong></p>
                                     <div class="modal-body">
-
                                         <form action="{{ route('front.email') }}" method="POST">
                                             <input type="hidden" name="_token" value="{{ csrf_token() }}" />
                                             <div class="form-group col-12 pd-0 mr-0">
@@ -137,9 +111,9 @@
                         <button type="button" class="btn btn-primary media bg-white black cursor-pointer pd-0 border-transparent border-0 focus-none header-meta-main-btn" data-toggle="modal" data-target="#header-faq">
                             <i class="fa fa-question mr-auto" aria-hidden="true"></i>
                             <span class="d-flex align-self-xl-center">
-                                <span class="media-body d-none d-xl-block white">
-                                    Đặt Câu Hỏi
-                                </span>
+                     <span class="media-body d-none d-xl-block white">
+                     Đặt Câu Hỏi
+                     </span>
                             </span>
                         </button>
                         <!-- Modal -->
@@ -147,7 +121,6 @@
                             <div class="modal-dialog" role="document">
                                 <div class="modal-content">
                                     <div class="modal-body">
-
                                         <form action="{{ route('front.email') }}" method="POST">
                                             <input type="hidden" name="_token" value="{{ csrf_token() }}" />
                                             <p style="text-align:center;font-weight:600">Vui Lòng Nhập Đủ Thông Tin Bên Dưới</p>
@@ -179,10 +152,9 @@
             </div>
         </div>
     </header>
-
     <!-- ==============================
-        Main Navbar
-    =================================== -->
+         Main Navbar
+         =================================== -->
     <section class="main-nav bg-white" id="sticker">
         <div class="container custom-container">
             <nav class="navbar-expand-lg navbar-light d-lg-flex justify-content-lg-end pos-r">
@@ -237,10 +209,9 @@
             </nav>
         </div>
     </section>
-
     <!-- ==============================
-        Slider Section
-    =================================== -->
+         Slider Section
+         =================================== -->
     <section class="main-slider" id="trang-chu">
         <div id="main-slider" class="owl-carousel owl-theme">
             <div class="item">
@@ -281,10 +252,9 @@
             </div>
         </div>
     </section>
-
     <!-- ==============================
-        Call To Action Section
-    =================================== -->
+         Call To Action Section
+         =================================== -->
     <section class="call-to-action pos-r bg-green">
         <div class="container custom-container">
             <div class="row">
@@ -305,12 +275,36 @@
             </div>
         </div>
     </section>
-
     <!-- ==============================
-        Features Section
-    =================================== -->
+         Features Section
+         =================================== -->
     <section class="features" id="gioi-thieu">
         <div class="container custom-container">
+            <div class="">
+                <div class="row justify-content-center">
+                    <div class="col-md-12">
+                        <h5 class="page-title text-center"> Nếu bạn đang gặp phải ?</h5>
+
+                        <p style="font-family:Arial, sans-serif;font-size: 120%;color:black;font-weight:500;text-align:center">
+                            <img src="https://img.icons8.com/color/40/000000/ok.png"> Thoái hóa đốt sống lưng L3,4,5
+                            <br>
+                            <br>
+                            <img src="https://img.icons8.com/color/40/000000/ok.png"> Thoát vị đĩa đệm, viêm khớp gối
+                            <br>
+                            <br>
+                            <img src="https://img.icons8.com/color/40/000000/ok.png"> Viêm đa khớp, chân tay tê mỏi
+                            <br>
+                            <br>
+                            <img src="https://img.icons8.com/color/40/000000/ok.png"> Viêm khớp dạng thấp, thoái hóa
+                        </p>
+                        <br>
+                        <h3 class="animated infinite zoomIn delay-1s" style="font-family:Arial, sans-serif;font-size: 160%;color:#ff0606;font-weight:600;text-align:center">CAM KẾT HIỆU QUẢ SAU 10 NGÀY </h3>
+                        <br>
+                        <h3 style="font-weight:600; color:#333740" class="page-main-title mr-0 text-center">Điều trị ngay với An thấp khớp Sunkun</h3>
+                    </div>
+                </div>
+            </div>
+            <br><br>
             <div class="row justify-content-center">
                 <div class="col-md-12">
                     <div class="page-title text-center">
@@ -349,10 +343,9 @@
             </div>
         </div>
     </section>
-
     <!-- ==============================
-        Services Section
-    =================================== -->
+         Services Section
+         =================================== -->
     <section class="services">
         <div class="container custom-container">
             <div class="row justify-content-center">
@@ -367,16 +360,14 @@
                     </div>
                     <br>
                 </div>
-
                 <div class="col-12 col-sm-10 col-md-11 col-lg-6 col-xl-6">
                     <div data-video="uO5RfepTQw8" id="video1" class="pos-r">
-                            <img class="figure-img img-fluid" src="sunkun/img/imgvideo2.jpg" alt="sunkun.">
+                        <img class="figure-img img-fluid" src="sunkun/img/imgvideo2.jpg" alt="sunkun.">
                     </div>
                 </div>
             </div>
         </div>
     </section>
-
     <section class="py-0">
         <div class="container custom-container">
             <div class="row">
@@ -468,10 +459,9 @@
             </div>
         </div>
     </section>
-
     <!-- ==============================
-        Product Features Section
-    =================================== -->
+         Product Features Section
+         =================================== -->
     <section class="product-features" id="cong-dung">
         <div class="container custom-container">
             <div class="row justify-content-center">
@@ -553,7 +543,6 @@
             </div>
         </div>
     </section>
-
     <section class="call-to-action pos-r bg-green">
         <div class="container custom-container">
             <div class="row">
@@ -573,7 +562,6 @@
             </div>
         </div>
     </section>
-
     <section class="services" id="thanh-phan">
         <div class="container custom-container">
             <div class="row justify-content-center">
@@ -599,7 +587,6 @@
                             <p class="mr-0">Chất SAC Chống lão hóa (chống oxy hóa) của tế bào.</p>
                             <p class="mr-0">Chất Polyphenol.</p>
                         </div>
-
                     </div>
                     <div class="d-md-flex justify-content-between services-box-bottom-border">
                         <div class="services-box pos-r">
@@ -619,10 +606,9 @@
             </div>
         </div>
     </section>
-
     <!-- ==============================
-        About Section
-    =================================== -->
+         About Section
+         =================================== -->
     <section class="about-section" id="hieu-qua">
         <div class="container custom-container">
             <div class="row justify-content-center">
@@ -637,8 +623,8 @@
                 </div>
                 <div class="col-12 col-sm-10 col-md-11 col-lg-6 col-xl-6">
                     <!-- =========================
-                        Youtube Video Section
-                    ============================== -->
+                     Youtube Video Section
+                     ============================== -->
                     <div data-video="yjVxaCS0TIY" id="video2" class="pos-r">
                         <img class="figure-img img-fluid" src="sunkun/img/imgvideo.jpg" alt="sunkun.">
                     </div>
@@ -646,10 +632,9 @@
             </div>
         </div>
     </section>
-
     <!-- ==============================
-        Recommended Section
-    =================================== -->
+         Recommended Section
+         =================================== -->
     <section class="recommended">
         <div class="container custom-container">
             <div class="row justify-content-center">
@@ -661,7 +646,6 @@
                 </div>
                 <div class="col-12">
                     <div class="row">
-
                         <div class="col-sm-4">
                             <br>
                             <img src="sunkun/img/bs.jpg" class="img-fluid" alt="bac si">
@@ -675,14 +659,11 @@
                             <img src="sunkun/img/bao2.jpg" class="img-fluid" alt="bao chi">
                         </div>
                     </div>
-
                 </div>
-
             </div>
         </div>
     </section>
-
-    <section class="py-5" style="background-color:#ddd">
+    <section class="py-5" style="background-color:#fff">
         <div class="container custom-container">
             <div class="row">
                 <div class="col-md-12">
@@ -801,38 +782,15 @@
             </div>
         </div>
     </section>
-
     <!-- ==============================
-        Product Section
-    =================================== -->
+         Product Section
+         =================================== -->
     <section class="vigo-product" id="dat-mua">
         <div class="container custom-container">
             <div class="row">
                 <div class="col-md-12">
                     <div class="page-title text-center">
-                        <h5 class="page-sub-title mr-0">Liên hệ ngay cho chúng tôi nếu bạn đang gặp phải</h5>
-                        <div class="">
-                            <div class="row">
-                                <div class="col-md-12">
-                                    <br>
-                                    <p style="font-family:Arial, sans-serif;font-size: 120%;color:black;font-weight:500;text-align:center">
-                                        <img src="https://img.icons8.com/color/40/000000/ok.png"> Thoái hóa đốt sống lưng L3,4,5
-                                        <br>
-                                        <br>
-                                        <img src="https://img.icons8.com/color/40/000000/ok.png"> Thoát vị đĩa đệm, viêm khớp gối
-                                        <br>
-                                        <br>
-                                        <img src="https://img.icons8.com/color/40/000000/ok.png"> Viêm đa khớp, chân tay tê mỏi
-                                        <br>
-                                        <br>
-                                        <img src="https://img.icons8.com/color/40/000000/ok.png"> Viêm khớp dạng thấp, thoái hóa
-                                    </p>
-                                    <br>
-                                    <h3 class="animated infinite zoomIn delay-1s" style="font-family:Arial, sans-serif;font-size: 160%;color:#ff0606;font-weight:600;text-align:lecenft">CAM KẾT HIỆU QUẢ SAU 10 NGÀY </h3>
-                                    <br>
-                                </div>
-                            </div>
-                        </div>
+
                         <h3 class="page-main-title mr-0">Điều trị ngay với An thấp khớp Sunkun</h3>
                     </div>
                 </div>
@@ -930,8 +888,8 @@
                                         <img src="sunkun/img/services_img.jpg" class="cursor-pointer" alt="product img">
                                     </li>
                                     <!-- <li>
-                                        <img src="sunkun/img/product-img-3.jpg" class="cursor-pointer" alt="product img">
-                                    </li> -->
+                                 <img src="sunkun/img/product-img-3.jpg" class="cursor-pointer" alt="product img">
+                                 </li> -->
                                     <!-- items mirrored twice, total of 12 -->
                                 </ul>
                             </div>
@@ -941,7 +899,6 @@
             </div>
         </div>
     </section>
-
     <section class="call-to-action pos-r bg-green">
         <div class="container custom-container">
             <div class="row">
@@ -959,7 +916,6 @@
             </div>
         </div>
     </section>
-
     <div class='quick-call-button'></div>
     <div class='call-now-button'>
         <div>
@@ -972,16 +928,16 @@
         </div>
     </div>
     <!-- ==============================
-        footer Section
-    =================================== -->
+         footer Section
+         =================================== -->
     <footer id="lien-he">
         <div class="container custom-container">
             <div class="row">
                 <div class="col-12 col-sm-12 col-md-4 col-lg-3 col-xl-3">
                     <div class="footer-box white">
                         <h4 class="footer-title pos-r">
-                           Về Chúng Tôi
-                        </h4>
+                        Về Chúng Tôi
+                     </h4>
                         <p class="footer-content">
                             Sứ mệnh Sunkun bảo vệ sức khỏe hàng triệu người
                             <br> biết thêm chúng tôi vui lòng truy cập website : <a target="_blank" rel="noopener noreferrer" href="https://www.sunkun.vn/">sunkun.vn</a>
@@ -992,8 +948,8 @@
                 <div class="col-12 col-sm-12 col-md-4 col-lg-5 col-xl-4">
                     <div class="footer-box footer-contact-form">
                         <h4 class="footer-title vigo-send-message pos-r white">
-                            Cần tư vấn điền vào biểu mẫu sau dưới đây
-                        </h4>
+                        Cần tư vấn điền vào biểu mẫu sau dưới đây
+                     </h4>
                         <form action="{{ route('front.email') }}" method="POST">
                             <input type="hidden" name="_token" value="{{ csrf_token() }}" />
                             <div class="row">
@@ -1015,12 +971,13 @@
                 <div class="col-12 col-sm-12 col-md-4 col-lg-3 col-xl-3">
                     <div class="footer-box white mr-0">
                         <h4 class="footer-title pos-r">
-                            Liên Hệ Với Chúng Tôi
-                        </h4>
+                        Liên Hệ Với Chúng Tôi
+                     </h4>
                         <div class="contact-office-hours">
                             <p>Giờ Mở Cửa:</p>
                             <p>
-                                Mon - Fri: 7.00 Am - 7.00 Pm</p>
+                                Mon - Fri: 7.00 Am - 7.00 Pm
+                            </p>
                             <p>
                                 Sunday: 8.00 Am - 5.00 Pm
                             </p>
@@ -1036,7 +993,8 @@
                                 <li class="list-group-item pd-0 bg-transparent border-transparent d-flex align-items-start border-0">
                                     <i class="fa fa-map-marker" aria-hidden="true"></i>
                                     <p class="display-inline-block mr-0">121 Cù Chính Lan
-                                        <br>Thành Phố Đà Nẵng</p>
+                                        <br>Thành Phố Đà Nẵng
+                                    </p>
                                 </li>
                             </ul>
                         </div>
@@ -1045,10 +1003,9 @@
             </div>
         </div>
     </footer>
-
     <!-- =========================
-    	Main Loding JS Script
-    ============================== -->
+         Main Loding JS Script
+         ============================== -->
     <script src="sunkun/js/jquery.min.js"></script>
     <script src="sunkun/js/popper.min.js"></script>
     <script src="sunkun/js/bootstrap.min.js"></script>
@@ -1061,7 +1018,6 @@
     <script src="sunkun/js/mixitup.min.js"></script>
     <script src="sunkun/js/main.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/1.3.1/js/toastr.js"></script>
-
     <script>
         toastr.options = {
             "closeButton": true,
@@ -1095,7 +1051,6 @@
             toastr["success"](arr[number] + ' ' + lot[aa] + ' ' + ten[bb] + '<br>' + brr[so]);
         }, 6000);
     </script>
-
     <script>
         var msg = '{{Session::get('
         alert ')}}';
@@ -1105,7 +1060,6 @@
             alert(msg);
         }
     </script>
-
 </body>
 
 </html>
