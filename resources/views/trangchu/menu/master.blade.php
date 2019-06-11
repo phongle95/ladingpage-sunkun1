@@ -22,7 +22,7 @@
     <meta name="og:url" content="{{ route('trangchu.menu.master') }}" />
     <!-- Structure data -->
     <script type="application/ld+json">
-        { "@context": "http://schema.org", "@type": "Organization", "address": { "@type": "PostalAddress", "addressLocality": "Việt Nam", "addressRegion": "TP Đà Nẵng", "streetAddress": "121 Cù Chính Lan, Thành Phố Đà Nẵng" }, "description": "Liệu trình 10 ngày đã được thử nghiệm và sử dụng bởi rất nhiều người có bệnh đau nhức xương khớp. 97% người sử dụng điều hài lòng, và kết thúc đau khớp trong 10 ngày đầu tiên. 3% còn lại thì khỏi hoàn toàn trong vòng 2 tuần", "name": "An Thap Khop", "telephone": "0989274727" }
+        { "@context": "http://schema.org", "@type": "Organization", "address": { "@type": "PostalAddress", "addressLocality": "Việt Nam", "addressRegion": "TP Đà Nẵng", "streetAddress": "121 Cù Chính Lan, Thành Phố Đà Nẵng" }, "description": "Liệu trình 10 ngày đã được thử nghiệm và sử dụng bởi rất nhiều người có bệnh đau nhức xương khớp. 97% người sử dụng điều hài lòng, và kết thúc đau khớp trong 10 ngày đầu tiên. 3% còn lại thì khỏi hoàn toàn trong vòng 2 tuần", "name": "An Thap Khop", "telephone": "0906617018" }
     </script>
     <script type="application/ld+json">
         { "@context": "http://schema.org", "@type": "WebSite", "name": "anthapkhop", "url": "https://www.sunkun.vn/", "sameAs": ["https://www.facebook.com/toidensunkun.vn/"] }
@@ -145,7 +145,7 @@
                     <div class="header-meta header-meta-ph bg-white media d-flex align-items-center d-inline-flex">
                         <i class="fa fa-phone mr-auto" aria-hidden="true"></i>
                         <div class="media-body d-none d-xl-block">
-                            <a href="tel:+0989274727" class="white">+0989 274 727</a>
+                            <a href="tel:+0976787618" class="white">+0976 787 618</a>
                         </div>
                     </div>
                 </div>
@@ -855,10 +855,10 @@
                                     <div class="row d-flex justify-content-center justify-content-md-start">
 
                                         <div class="col-sm-3">
-                                            <a href="https://zalo.me/0328811678" target="_blank"><img height="50px" src="sunkun/img/chat-zalo.png" alt="facebook"><br><br></a>
+                                            <a href="https://zalo.me/0906617018" target="_blank"><img height="50px" src="sunkun/img/chat-zalo.png" alt="facebook"><br><br></a>
                                         </div>
                                         <div class="col-sm-3">
-                                            <a href="https://www.messenger.com/t/nvluanks" target="_blank"><img height="50px" src="sunkun/img/chat-facebook.png" alt="facebook"></a>
+                                            <a href="https://www.messenger.com/t/honglong.bien" target="_blank"><img height="50px" src="sunkun/img/chat-facebook.png" alt="facebook"></a>
                                         </div>
                                     </div>
                                 </form>
@@ -907,12 +907,11 @@
                 </div>
                 <div class="col-12 col-sm-12 col-md-6 col-lg-7 col-xl-7 pd-0 d-md-flex align-items-center text-center">
                     <div class="call-to-action-content">
-                        <p class="mr-0 white call-to-action-subtitle cou">Kết thúc nỗi đau dai dẵng</p>
-                        <p class="mr-0 white call-to-action-title ral">Điều trị tận gốc chỉ với 10 ngày sử dụng</p>
+                        <p class="mr-0 white call-to-action-title ral">XEM THÊM SẢN PHẨM CỦA CHÚNG TÔI</p>
                     </div>
                 </div>
                 <div class="col-12 col-sm-12 col-md-3 col-lg-2 col-xl-2 d-md-flex align-items-center text-center call-to-action-view-btn">
-                    <a data-toggle="modal" data-target="#header-faq" target="_blank" class="btn ral btn-outline-primary vigo-btn hvr-shutter-in-horizontal focus-none bg-white border-transparent green">Đăng ký tư vấn ngay</a>
+                    <a href="https://www.sunkun.vn/san-pham.html" target="_blank" class="btn ral btn-outline-primary vigo-btn hvr-shutter-in-horizontal focus-none bg-white border-transparent green">Tại Đây</a>
                 </div>
             </div>
         </div>
@@ -921,7 +920,7 @@
     <div class='call-now-button'>
         <div>
             <p class='call-text'></p>
-            <a href='tel:0989274727' title='Gọi ngay'>
+            <a href='tel:0906617018' title='Gọi ngay'>
                 <div class='quick-alo-ph-circle active'></div>
                 <div class='quick-alo-ph-circle-fill active'></div>
                 <div class='quick-alo-ph-img-circle shake'></div>
@@ -977,7 +976,7 @@
                         <div class="contact-office-hours">
                             <p>Giờ Mở Cửa:</p>
                             <p>
-                                Mon - Fri: 7.00 Am - 7.00 Pm
+                                Mon - Fri: 7.00 Am - 9.00 Pm
                             </p>
                             <p>
                                 Sunday: 8.00 Am - 5.00 Pm
@@ -986,15 +985,15 @@
                         <div class="contact-address">
                             <ul class="list-group white">
                                 <li class="list-group-item pd-0 bg-transparent border-transparent">
-                                    <a href="tel:+0989274727" class="white"><i class="fa fa-phone" aria-hidden="true"></i> +0989 274 727</a>
+                                    <a href="tel:+0906617018" class="white"><i class="fa fa-phone" aria-hidden="true"></i> +0906 617 018</a>
                                 </li>
-                                <li class="list-group-item pd-0 bg-transparent border-transparent">
+                                {{--  <li class="list-group-item pd-0 bg-transparent border-transparent">
                                     <a href="mailto:sunkun.vn@gmail.com" class="white"><i class="fa fa-envelope" aria-hidden="true"></i> sunkun.vn@gmail.com</a>
-                                </li>
+                                </li>  --}}
                                 <li class="list-group-item pd-0 bg-transparent border-transparent d-flex align-items-start border-0">
                                     <i class="fa fa-map-marker" aria-hidden="true"></i>
-                                    <p class="display-inline-block mr-0">121 Cù Chính Lan
-                                        <br>Thành Phố Đà Nẵng
+                                    <p class="display-inline-block mr-0">YettyShop 147 Trần Hưng Đạo <br>Phường Nguyễn Nghiêm
+                                        <br>Thành Phố Quảng Ngãi
                                     </p>
                                 </li>
                             </ul>
