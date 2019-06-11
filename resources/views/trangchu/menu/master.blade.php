@@ -853,11 +853,12 @@
                             <div class="product-quantity">
                                 <form class="container">
                                     <div class="row d-flex justify-content-center justify-content-md-start">
-                                        <div class="col-3 col-lg-1 pd-0 d-flex align-items-stretch">
-                                            <input type="number" class="form-control border-transparent black focus-none" placeholder="1">
+
+                                        <div class="col-sm-3">
+                                            <a href="https://zalo.me/0328811678" target="_blank"><img height="50px" src="sunkun/img/chat-zalo.png" alt="facebook"><br><br></a>
                                         </div>
-                                        <div class="col-4">
-                                            <a data-toggle="modal" data-target="#header-faq" target="_blank" class="btn ral btn-outline-primary vigo-btn hvr-shutter-out-horizontal bg-green border-transparent white focus-none">ĐẶT HÀNG NGAY</a>
+                                        <div class="col-sm-3">
+                                            <a href="https://www.messenger.com/t/nvluanks" target="_blank"><img height="50px" src="sunkun/img/chat-facebook.png" alt="facebook"></a>
                                         </div>
                                     </div>
                                 </form>
